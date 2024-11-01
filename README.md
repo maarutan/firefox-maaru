@@ -8,6 +8,12 @@
 
 ![race](./img/firefox.png)
 
+# no blur ???
+
+this will only work for [picom](https://github.com/fdev31/picom)
+
+![race](./img/firefox-blur.png)
+
 # extensions mtab
 
 -   [mtab](https://addons.mozilla.org/en-US/firefox/addon/mtab/)
