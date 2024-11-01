@@ -1,0 +1,9 @@
+#options-button{
+display:none;
+}
+#search-container{
+margin-top:100px;
+padding:10px 30px;
+border-radius:20px !important;
+border:solid 2px #809ddb;
+}
