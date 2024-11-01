@@ -8,6 +8,10 @@
 
 ![race](./img/firefox.png)
 
+# with mtab extension
+
+![race](./img/firefox-mtab.png)
+
 # no blur ???
 
 this will only work for [picom](https://github.com/fdev31/picom)
